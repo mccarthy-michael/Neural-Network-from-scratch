@@ -6,8 +6,7 @@
 - Orientation: Column-major tensors (features, batch) to keep math close to the linear algebra formulas.
 - Files:
   - Model/training: `my-neural-network.py`
-  - Inference GUI (Tkinter): `draw_and_predict.py`
-  - Checkpoints: CSV weights/biases in `checkpoints/csv/`
+  - Checkpoints: CSV weights/biases in `#-epochs/csv/`
 
 ## Timeline and key steps
 1. Data preparation and shapes
